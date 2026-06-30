@@ -29,7 +29,7 @@
     "extend": "^3.0.2",
     "falafel": "^2.1.0",
     "idgen": "^2.1.0",
-    "minimatch": "^3.0.4"
+    "minimatch": "^9.0.6"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
